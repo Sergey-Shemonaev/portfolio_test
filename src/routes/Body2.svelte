@@ -8,13 +8,6 @@
             myDiv.style.bottom = (window.scrollY * 3 - 1000)+'px';
             myDiv.style.height = `calc(auto + ${window.scrollY * 400}px)`;
             myDiv.style.opacity = .4;
-
-
-            // if(myDiv.style.bottom === -100){
-            //     myDiv.style.opacity = 0
-            // } else {
-            //
-            // }
         });
     })
 </script>
