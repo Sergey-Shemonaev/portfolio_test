@@ -20,24 +20,24 @@
     <h2>My Skills</h2>
     <section>
         <div>
-            <img src="/../src/lib/images/icon%20html.png" alt="">
+            <img src="/../src/lib/images/icon_html.png" alt="">
             <span>HTML5</span>
         </div>
 
         <div>
-            <img src="/../src/lib/images/icon%20css.png" alt="">
+            <img src="/../src/lib/images/icon_css.png" alt="">
             <span>CSS3</span>
         </div>
         <div>
-            <img src="/../src/lib/images/icon%20scss.png" alt="">
+            <img src="/../src/lib/images/icon_scss.png" alt="">
             <span>SCSS</span>
         </div>
         <div>
-            <img src="/../src/lib/images/icon%20js.png" alt="">
+            <img src="/../src/lib/images/icon_js.png" alt="">
             <span>Java Script</span>
         </div>
         <div>
-            <img src="/../src/lib/images/icon%20git.png" alt="">
+            <img src="/../src/lib/images/icon_git.png" alt="">
             <span>Git</span>
         </div>
     </section>
