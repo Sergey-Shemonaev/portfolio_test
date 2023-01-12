@@ -25,19 +25,19 @@
         </div>
 
         <div>
-            <img src="/../src/lib/images/icon_css.png" alt="">
+            <img src="/images/icon_css.png" alt="">
             <span>CSS3</span>
         </div>
         <div>
-            <img src="/../src/lib/images/icon_scss.png" alt="">
+            <img src="/images/icon_scss.png" alt="">
             <span>SCSS</span>
         </div>
         <div>
-            <img src="/../src/lib/images/icon_js.png" alt="">
+            <img src="/images/icon_js.png" alt="">
             <span>Java Script</span>
         </div>
         <div>
-            <img src="/../src/lib/images/icon_git.png" alt="">
+            <img src="/images/icon_git.png" alt="">
             <span>Git</span>
         </div>
     </section>
