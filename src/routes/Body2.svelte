@@ -20,7 +20,7 @@
     <h2>My Skills</h2>
     <section>
         <div>
-            <img src="/../src/lib/images/icon_html.png" alt="">
+            <img src="/images/icon_html.png" alt="">
             <span>HTML5</span>
         </div>
 
