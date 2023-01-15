@@ -15,14 +15,11 @@
 <div class="animation">
   <h3> Мои Проекты</h3>
     <div class="product">
-        ?
+       <a href="https://codepen.io/Sergey-Shemonaev/pen/LYdYjdb">Пробная верстка</a>
+        <a href="https://codepen.io/Sergey-Shemonaev/pen/KKQrYbE">Вертикальные вкладки CSS</a>
+        <a href="https://codepen.io/Sergey-Shemonaev/pen/xxYNjmJ">Input</a>
     </div>
 </div>
-
-<!--<div>udfih z;dfi ;dfh; zdkfn z;jhn dfzuh udirh huidnz dfj ;</div>-->
-
-
-
 
 <style>
 
@@ -33,9 +30,6 @@
         align-items: center;
         width: 100%;
     }
-    /*div{*/
-    /*    margin: 0 10px;*/
-    /*}*/
 
     p {
         font-family: 'Rubik Mono One', cursive;
@@ -60,34 +54,36 @@
     }
     .animation{
         width: 100%;
-        /*height: 50em;*/
-        /*background-color: #858585;*/
-
         margin: 2em 0;
-        font-family: 'Rubik Mono One', cursive;
+        font-family:  Monotype Corsiva, cursive;
         font-style: italic;
         font-weight: 900;
-        font-size: 5em;
+        font-size:5em;
         line-height: 45px;
         text-align: center;
-        color: #fff;
+        color: #fafafa;
         text-shadow: 10px 10px 30px #5651ea, -10px -10px 30px #525be1;
-        -webkit-text-stroke: 2px #fafafa;
+        -webkit-text-stroke: .1px #d9d9d9;
         -webkit-text-fill-color: #11a1ea;
         letter-spacing: 5px;
+    }
+    a{
+        display: block;
+        margin-top: 1em;
+        font-size: 1em;
     }
 
    .product{
         margin-top: 2em;
        font-size: 2em;
        position: relative;
-       animation:  rotation 2s infinite;
+       animation:  rotation 5s infinite;
    }
 
 
     @-webkit-keyframes rotation {
-        from {-webkit-transform: rotatey(0deg);}
-        to {-webkit-transform: rotatey(360deg);}
+        from {-webkit-transform: rotateY(0deg);}
+        to {-webkit-transform: rotateY(360deg);}
     }
 
     /*@-keyframes product {*/
