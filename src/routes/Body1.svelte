@@ -58,7 +58,7 @@
         font-family:  Monotype Corsiva, cursive;
         font-style: italic;
         font-weight: 900;
-        font-size:5em;
+        font-size: 4.5em;
         line-height: 45px;
         text-align: center;
         color: #fafafa;
@@ -75,9 +75,8 @@
 
    .product{
         margin-top: 2em;
-       font-size: 2em;
        position: relative;
-       animation:  rotation 5s infinite;
+       animation:  rotation 10s infinite;
    }
 
 
